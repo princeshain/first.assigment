@@ -1,0 +1,128 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+
+    width: 1600px;
+    height: 808px;
+}
+
+.title{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    margin-right: 220px;
+    margin-left: 850px;
+}
+.description{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 220px;
+    margin-left: 800px;
+}
+.button{
+    text-align: right;
+    margin-right: 220px;
+    margin-left: 1000px;
+}
+.btn-primary{
+    color: #005FAC;
+    width: 160px;
+    height: 64px;
+    text-decoration: none;
+}
+/* banner styles */
+.banner{
+    display: flex;
+    width: 1072px;
+    height: 723.3px;
+    left: 473px;
+    top: 990px;
+}
+.banner-styles{
+    width: 416px;
+    height: 400px;
+}
+.banner-title{
+    color: #151414;
+    font-weight: 700;
+    line-height: 47px;
+}
+.banner-description{
+    color: #444343;
+    font-weight: 400;
+    line-height: 26px;
+}
+.banner-list{
+    width: 349px;
+    height: 26px;
+}
+/* My Plans */
+.my-Plans-title{
+    color: #151414;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+/* skills-container */
+.skills-container{
+    display: flex;
+    align-items: center;
+}
+.skill{
+    width: 214px;
+    height: 197px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.skill-description{
+    font-weight: 500;
+    font-size: 25px;
+}
+/* resume */
+.resume{
+  background-image: url(../images/gradient3.png);
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+}
+.resume-title{
+    width: 459px;
+    height: 94px;
+}
+.btn-resume{
+    width: 160px;
+    height: 64px;
+}
+/* section */
+.contact{
+    display: flex;
+    text-decoration: none;
+}
+.contact-description{
+    width: 485px;
+    height: 78px;
+}
+.contact-title{
+    width: 148px;
+    height: 53px;
+}
+.contact-sub-title{
+    width: 184px;
+    height: 26px;
+    margin-left: 50px;
+}
+.btn-contact{
+    background: #005FAC;
+    border-radius: 8px;
+    width: 170.11px;
+    height: 64px;
+    margin-top: 20px;
+}
